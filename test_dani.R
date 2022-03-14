@@ -1,1 +1,1 @@
-print("Hello I'm Dani!!")
+print("こんにちは、これは Daniです!!")
