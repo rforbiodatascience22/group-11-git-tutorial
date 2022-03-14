@@ -1,2 +1,2 @@
-print("fuck them bitches")
+print("have a nice day bitches")
 print("Yoloswag")
